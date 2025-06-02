@@ -66,3 +66,6 @@ git fetch origin
 git push .
 git commit -m "all" .
 git commit -m "all" 
+git reset --hard HEAD
+git log
+git status
