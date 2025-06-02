@@ -69,3 +69,24 @@ git commit -m "all"
 git reset --hard HEAD
 git log
 git status
+git add .bash_history
+git commit -m "update bash history" docker-practice/
+git add docker-practice
+git commit -m "update bash history" docker-practice
+git add docker-practice/
+git commit -m "update bash history" docker-practice/
+git commit -m "now" docker-practice/
+git add docker-practice/
+git commit -m "Add docker practice files"
+git push
+git push --set-upstream origin main --all  docker-practice/
+git push --set-upstream origin master
+git push --set-upstream origin man
+git push --set-upstream origin main
+git branch -M main
+git push --set-upstream origin main
+git push --force-with-lease --set-upstream origin main
+git add -A
+git commit -m "update" docker-practice/
+cd docker-practice/
+ls
